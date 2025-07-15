@@ -83,9 +83,9 @@ export default function Page() {
         <div className="fixed bottom-6 left-1/2 z-50 -translate-x-1/2 transform sm:bottom-8">
           <ViewSwitch currentView={viewMode} onChange={handleViewModeChange} />
         </div>
-        <div className="fixed bottom-6 right-4 z-50 sm:right-6">
+        {/* <div className="fixed bottom-6 right-4 z-50 sm:right-6">
           <FlowiseChatbot />
-        </div>
+        </div> */}
       </div>
     );
   }
