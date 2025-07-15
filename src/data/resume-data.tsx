@@ -134,33 +134,33 @@ export const RESUME_DATA = {
       description:
         "I've been working as a Flutter Developer at Denner Ventures Pvt Ltd, where I have been involved in developing and maintaining mobile applications using Flutter. My role includes collaborating with designers and backend developers to create seamless user experiences, implementing new features, and optimizing app performance.",
       bulletPoints: [
-        {
-          text: "Top Project of EduChain (25+ million on-chain transactions)",
-          links: [
-            {
-              name: "EduChain Reference",
-              url: "https://x.com/opencampus_xyz/status/1879393083701494262",
-            },
-          ],
-        },
-        {
-          text: "Developed and launched core products: EduAgent, EduGPT, EduKit, and EduBox",
-          links: [
-            {
-              name: "EduHub Products",
-              url: "https://docs.eduhub.dev/products",
-            },
-          ],
-        },
-        {
-          text: "Backed by Open Campus Incubator Program",
-          links: [
-            {
-              name: "OCI Program",
-              url: "https://oci.opencampus.xyz/",
-            },
-          ],
-        },
+      //   {
+      //     text: "Top Project of EduChain (25+ million on-chain transactions)",
+      //     links: [
+      //       {
+      //         name: "EduChain Reference",
+      //         url: "https://x.com/opencampus_xyz/status/1879393083701494262",
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     text: "Developed and launched core products: EduAgent, EduGPT, EduKit, and EduBox",
+      //     links: [
+      //       {
+      //         name: "EduHub Products",
+      //         url: "https://docs.eduhub.dev/products",
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     text: "Backed by Open Campus Incubator Program",
+      //     links: [
+      //       {
+      //         name: "OCI Program",
+      //         url: "https://oci.opencampus.xyz/",
+      //       },
+      //     ],
+      //   },
       ],
     },
     {
@@ -173,33 +173,33 @@ export const RESUME_DATA = {
       description:
         "I've been working as a Flutter Developer at Denner Ventures Pvt Ltd, where I have been involved in developing and maintaining mobile applications using Flutter. My role includes collaborating with designers and backend developers to create seamless user experiences, implementing new features, and optimizing app performance.",
       bulletPoints: [
-        {
-          text: "Top Project of EduChain (25+ million on-chain transactions)",
-          links: [
-            {
-              name: "EduChain Reference",
-              url: "https://x.com/opencampus_xyz/status/1879393083701494262",
-            },
-          ],
-        },
-        {
-          text: "Developed and launched core products: EduAgent, EduGPT, EduKit, and EduBox",
-          links: [
-            {
-              name: "EduHub Products",
-              url: "https://docs.eduhub.dev/products",
-            },
-          ],
-        },
-        {
-          text: "Backed by Open Campus Incubator Program",
-          links: [
-            {
-              name: "OCI Program",
-              url: "https://oci.opencampus.xyz/",
-            },
-          ],
-        },
+        // {
+        //   text: "Top Project of EduChain (25+ million on-chain transactions)",
+        //   links: [
+        //     {
+        //       name: "EduChain Reference",
+        //       url: "https://x.com/opencampus_xyz/status/1879393083701494262",
+        //     },
+        //   ],
+        // },
+        // {
+        //   text: "Developed and launched core products: EduAgent, EduGPT, EduKit, and EduBox",
+        //   links: [
+        //     {
+        //       name: "EduHub Products",
+        //       url: "https://docs.eduhub.dev/products",
+        //     },
+        //   ],
+        // },
+        // {
+        //   text: "Backed by Open Campus Incubator Program",
+        //   links: [
+        //     {
+        //       name: "OCI Program",
+        //       url: "https://oci.opencampus.xyz/",
+        //     },
+        //   ],
+        // },
       ],
     },
     
