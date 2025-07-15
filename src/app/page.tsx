@@ -338,7 +338,9 @@ export default function Page() {
                     key={project.title}
                     title={project.title}
                     description={project.description}
-                    tags={project.techStack}
+                    // tags={project.techStack}
+                      tags={project.techStack.filter((tag) => tag !== undefined)}
+
                     link={"link" in project ? project.link.href : undefined}
                   />
                 );
