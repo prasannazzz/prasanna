@@ -14,7 +14,7 @@ export const RESUME_DATA = {
   initials: "PP",
   location: "Based in Pune, India",
   locationLink: "https://www.google.com/maps/place/nawabshah",
-  about: "I build & teach AI and Blockchain stuff",
+  about: "I learn software engineering and build AI-powered applications.",
   summary:
     "I'm Prasanna Patil — a Computer Science undergrad at VIIT Pune, passionate about building intelligent and impactful digital solutions. I specialize in Flutter and React-based development, and I’ve built full-stack AI-powered apps for finance and insurance automation.",
   avatarUrl: "https://res.cloudinary.com/dtqrzxyef/image/upload/v1752597043/WhatsApp_Image_2025-07-11_at_15.53.17_8aeb5012_kxk7ly.jpg",
