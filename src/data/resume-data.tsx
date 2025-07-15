@@ -12,7 +12,7 @@ import {
 export const RESUME_DATA = {
   name: "Prasanna Patil",
   initials: "PP",
-  location: "Based in Pune 🇵🇰",
+  location: "Based in Pune, India",
   locationLink: "https://www.google.com/maps/place/nawabshah",
   about: "I build & teach AI and Blockchain stuff",
   summary:
